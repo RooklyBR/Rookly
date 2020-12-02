@@ -1,6 +1,5 @@
 {
   "name": "rookly",
-  "homepage": "https://rooklybr.github.io/Rookly/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
