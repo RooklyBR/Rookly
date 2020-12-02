@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Rookly/static/css/main.12d14748.chunk.css",
-    "main.js": "/Rookly/static/js/main.01cd5028.chunk.js",
-    "main.js.map": "/Rookly/static/js/main.01cd5028.chunk.js.map",
+    "main.css": "/Rookly/static/css/main.6fac4ab4.chunk.css",
+    "main.js": "/Rookly/static/js/main.abe8e17a.chunk.js",
+    "main.js.map": "/Rookly/static/js/main.abe8e17a.chunk.js.map",
     "runtime-main.js": "/Rookly/static/js/runtime-main.1464c480.js",
     "runtime-main.js.map": "/Rookly/static/js/runtime-main.1464c480.js.map",
     "static/js/2.d4e1fde0.chunk.js": "/Rookly/static/js/2.d4e1fde0.chunk.js",
     "static/js/2.d4e1fde0.chunk.js.map": "/Rookly/static/js/2.d4e1fde0.chunk.js.map",
     "index.html": "/Rookly/index.html",
-    "static/css/main.12d14748.chunk.css.map": "/Rookly/static/css/main.12d14748.chunk.css.map",
+    "static/css/main.6fac4ab4.chunk.css.map": "/Rookly/static/css/main.6fac4ab4.chunk.css.map",
     "static/js/2.d4e1fde0.chunk.js.LICENSE.txt": "/Rookly/static/js/2.d4e1fde0.chunk.js.LICENSE.txt",
-    "static/media/logo.90176eae.svg": "/Rookly/static/media/logo.90176eae.svg"
+    "static/media/logo.e1befc01.svg": "/Rookly/static/media/logo.e1befc01.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1464c480.js",
     "static/js/2.d4e1fde0.chunk.js",
-    "static/css/main.12d14748.chunk.css",
-    "static/js/main.01cd5028.chunk.js"
+    "static/css/main.6fac4ab4.chunk.css",
+    "static/js/main.abe8e17a.chunk.js"
   ]
 }
