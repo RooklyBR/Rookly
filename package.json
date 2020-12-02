@@ -1,5 +1,6 @@
 {
   "name": "rookly",
+  "homepage": "https://rookly.com.br/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
